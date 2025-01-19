@@ -1,7 +1,7 @@
 ## 💫 Features
 
-- 🎭 **Authentic Personality Simulation**
-- 🧠 **Advanced Language Processing**
-- ⚡ **Real-time Response Generation**
-- 📱 **Cross-platform Compatibility**
-- 🔄 **Continuous Learning & Improvement**
+- 🎭 **Authentic Personality Simulation based on 70.000 Tweets**
+- 🧠 **Advanced Language Processing via custom AI**
+- ⚡ **Real-time Response Generation in Interface**
+- 📱 **Cross-platform Compatibility of the Chat**
+- 🔄 **Continuous Learning & Improvement for better quality**
